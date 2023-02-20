@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://instagram.com/rvicode">
+  <a href="https://instagram.com/rvi.py">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100"/>
   </a>
-  <a href="https://t.me/RVICODE2">
+  <a href="https://t.me/RVICODE3">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="100"/>
   </a>
 </div>
